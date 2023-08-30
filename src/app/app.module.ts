@@ -17,7 +17,7 @@ import { BasicHighlightDirective } from './basic-highlight/basic-highlight.direc
     AppRoutingModule,
     //HttpModule
   ],
-  providers: [],
+  providers:  [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
